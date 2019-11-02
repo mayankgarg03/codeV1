@@ -1,0 +1,240 @@
+.navbar-brand{
+	font-family: 'Merriweather', serif; 
+	font-weight: bold; 
+    font-size: 30px; 
+   
+}
+
+
+.nav-font{
+	font-family: 'Open Sans', sans-serif;
+	font-size: 20px;
+}
+
+
+@media only screen and (max-width: 992px){
+	.nav-font{
+		font-family: 'Open Sans', sans-serif;
+		font-size: 18px;
+	}
+}
+
+
+
+@media only screen and (max-width: 450px){
+	.myImage{
+		width: 270px;
+		height: 270px;
+    }
+    #homebgimage{
+        width: 100%;
+        background: linear-gradient(rgba(255,255,255,0.4), rgba(0,0,0,0.4));
+    }
+}
+
+@media only screen and (max-width: 371px){
+	.myImage{
+		width: 250px;
+		height: 250px;
+    }
+    
+    #homebgimage{
+        width: 100%;
+        background: linear-gradient(rgba(255,255,255,0.4), rgba(0,0,0,0.4));
+       
+    }
+}
+
+
+.myImage{
+        width: 130px;
+        height: 100px;
+    }
+
+
+
+
+
+
+.findMore{
+	border-radius: 60px;
+}
+
+.hamburger {
+    display: inline-block;
+    cursor: pointer;
+}
+
+.bar1, .bar2, .bar3 {
+    width: 35px;
+    height: 5px;
+    background-color: #333;
+    margin: 6px 0;
+    transition: 0.4s;
+}
+
+.navbar-nav{
+  margin-left: 350px;
+}
+
+.nav-font{
+    color: #fff;
+}
+
+
+.myImage{
+	width: 270px;
+	height: 300px;
+    border-radius: 100%;
+    border: 3px solid white;
+}
+
+.details{
+    margin-top: -30px;
+}
+
+/* @media only screen and (max-width: 450px){
+	.myImage{
+		width: 270px;
+		height: 270px;
+	}
+}
+
+@media only screen and (max-width: 371px){
+	.myImage{
+		width: 250px;
+		height: 250px;
+	}
+} */
+
+
+/* #about{
+    margin-top: 20px;
+   } */
+
+
+    /* .about_head{
+        text-align: center;
+        margin-top: 50px;
+        background-color: #333;
+        color: white;
+        } */
+        .seewhoiam{
+            margin-left: 50px;
+        }
+    /* .about_para{
+        margin-top: 10px;
+        margin-left: 25px;
+    }
+    
+    .about_photo{
+        text-align: right;
+        margin-right: 100px;
+        margin-top: 10px;
+    }
+
+    .dp-1{
+        height: 30%;
+        width: 40%;
+    }
+
+    .photo_caption{
+        margin-right: 100px;
+        margin-top: 20px;
+    }
+    .gmail{
+        margin-right: -60px;
+    }
+    .cap_1{
+        text-align: right;
+        margin-right: 25px;
+    }
+    .cap_2{
+        text-align: right;
+        margin-right: 25px;
+        margin-top: 10px;
+    }
+    .cap_3{
+        margin-top: 10px;
+        text-align: right;
+    }
+    .para1{
+        margin-left: 25px;
+    }
+ 
+    .education{
+        text-align: center;
+        margin-top: 50px;
+        background-color: #333;
+        color: white;
+    } */
+    
+    .edu_head{
+        text-align: center;
+        margin-top: 20px;
+    }
+    .edu_para{
+        text-align: center;
+    }
+
+    .projectheading{
+        font-size: 20px;
+        font-weight: bold;
+        /* position: absolute;
+        top: 30%; */
+        color: blue;
+        left: 7%;
+    }
+
+      
+    .projectdetail{
+        font-size: 16px;
+        z-index: 1;
+        position: absolute;
+        top: 40%;
+        left: 8%;
+        color: red;
+    }
+
+    .clickdetail{
+        font-size: 16px;
+        z-index: 1;
+        position: absolute;
+        top: 60%;
+        color: red;
+        left: 8%;
+    }
+    
+ 
+    .projectimage{
+        width: 100%;
+        height: 80%;
+    }
+
+    /* #portfolio{
+        text-align: center;
+        margin-top: 50px;
+        background-color: #333;
+        color: white;
+    }
+  
+#myforte{
+    text-align: center;
+        margin-top: 50px;
+        background-color: #333;
+        color: white;
+}
+
+   */
+
+   /* .about_div{
+       text-align: center;
+   } */
+    
+   .aboutme{
+       /* margin-top: 50px; */
+      margin-left: 500px;
+   }
+
+    
+    
